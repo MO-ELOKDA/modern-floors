@@ -1,0 +1,1 @@
+Place six JPG files in each numeric folder, e.g. 503/503PL_f.jpg, 503PL_r.jpg, 503PL_b.jpg, 503PL_l.jpg, 503PL_u.jpg, 503PL_d.jpg. Open modern-floors.html using Live Server. Use authorized panorama images only. Internet needed for Pannellum CDN.
